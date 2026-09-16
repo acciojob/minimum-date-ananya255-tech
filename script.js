@@ -5,8 +5,9 @@ function minDate(dates) {
 		if(dates[i]<min){
 			min=dates[i]
 		}
-		return min
 	}
+		return min
+	
 }
 
 // Do not change the code
